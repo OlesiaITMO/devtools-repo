@@ -1,0 +1,3 @@
+[submodule "OpenEduParser"]
+	path = OpenEduParser
+	url = https://github.com/BakasaRus/OpenEduParser.git
